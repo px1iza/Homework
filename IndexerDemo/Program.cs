@@ -75,3 +75,4 @@ class Program
         Console.WriteLine("Кількість студентів з прізвищем 'Нечай': " + table.NetchayCount);
     }
 }
+// тестовий pull request
