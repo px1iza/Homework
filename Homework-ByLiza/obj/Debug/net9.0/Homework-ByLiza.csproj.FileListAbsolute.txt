@@ -1,0 +1,15 @@
+/Users/elizavetarabirokh/Homework/Homework-ByLiza/bin/Debug/net9.0/Homework-ByLiza
+/Users/elizavetarabirokh/Homework/Homework-ByLiza/bin/Debug/net9.0/Homework-ByLiza.deps.json
+/Users/elizavetarabirokh/Homework/Homework-ByLiza/bin/Debug/net9.0/Homework-ByLiza.runtimeconfig.json
+/Users/elizavetarabirokh/Homework/Homework-ByLiza/bin/Debug/net9.0/Homework-ByLiza.dll
+/Users/elizavetarabirokh/Homework/Homework-ByLiza/bin/Debug/net9.0/Homework-ByLiza.pdb
+/Users/elizavetarabirokh/Homework/Homework-ByLiza/obj/Debug/net9.0/Homework-ByLiza.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizavetarabirokh/Homework/Homework-ByLiza/obj/Debug/net9.0/Homework-ByLiza.AssemblyInfoInputs.cache
+/Users/elizavetarabirokh/Homework/Homework-ByLiza/obj/Debug/net9.0/Homework-ByLiza.AssemblyInfo.cs
+/Users/elizavetarabirokh/Homework/Homework-ByLiza/obj/Debug/net9.0/Homework-ByLiza.csproj.CoreCompileInputs.cache
+/Users/elizavetarabirokh/Homework/Homework-ByLiza/obj/Debug/net9.0/Homework-ByLiza.sourcelink.json
+/Users/elizavetarabirokh/Homework/Homework-ByLiza/obj/Debug/net9.0/Homework-ByLiza.dll
+/Users/elizavetarabirokh/Homework/Homework-ByLiza/obj/Debug/net9.0/refint/Homework-ByLiza.dll
+/Users/elizavetarabirokh/Homework/Homework-ByLiza/obj/Debug/net9.0/Homework-ByLiza.pdb
+/Users/elizavetarabirokh/Homework/Homework-ByLiza/obj/Debug/net9.0/Homework-ByLiza.genruntimeconfig.cache
+/Users/elizavetarabirokh/Homework/Homework-ByLiza/obj/Debug/net9.0/ref/Homework-ByLiza.dll

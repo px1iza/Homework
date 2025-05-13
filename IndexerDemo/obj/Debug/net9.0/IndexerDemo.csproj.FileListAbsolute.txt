@@ -1,0 +1,15 @@
+/Users/elizavetarabirokh/Homework/IndexerDemo/bin/Debug/net9.0/IndexerDemo
+/Users/elizavetarabirokh/Homework/IndexerDemo/bin/Debug/net9.0/IndexerDemo.deps.json
+/Users/elizavetarabirokh/Homework/IndexerDemo/bin/Debug/net9.0/IndexerDemo.runtimeconfig.json
+/Users/elizavetarabirokh/Homework/IndexerDemo/bin/Debug/net9.0/IndexerDemo.dll
+/Users/elizavetarabirokh/Homework/IndexerDemo/bin/Debug/net9.0/IndexerDemo.pdb
+/Users/elizavetarabirokh/Homework/IndexerDemo/obj/Debug/net9.0/IndexerDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizavetarabirokh/Homework/IndexerDemo/obj/Debug/net9.0/IndexerDemo.AssemblyInfoInputs.cache
+/Users/elizavetarabirokh/Homework/IndexerDemo/obj/Debug/net9.0/IndexerDemo.AssemblyInfo.cs
+/Users/elizavetarabirokh/Homework/IndexerDemo/obj/Debug/net9.0/IndexerDemo.csproj.CoreCompileInputs.cache
+/Users/elizavetarabirokh/Homework/IndexerDemo/obj/Debug/net9.0/IndexerDemo.sourcelink.json
+/Users/elizavetarabirokh/Homework/IndexerDemo/obj/Debug/net9.0/IndexerDemo.dll
+/Users/elizavetarabirokh/Homework/IndexerDemo/obj/Debug/net9.0/refint/IndexerDemo.dll
+/Users/elizavetarabirokh/Homework/IndexerDemo/obj/Debug/net9.0/IndexerDemo.pdb
+/Users/elizavetarabirokh/Homework/IndexerDemo/obj/Debug/net9.0/IndexerDemo.genruntimeconfig.cache
+/Users/elizavetarabirokh/Homework/IndexerDemo/obj/Debug/net9.0/ref/IndexerDemo.dll
